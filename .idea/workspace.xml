@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e090995a-5b23-4412-b95a-8769ef9916de" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jIJBGMJMixjkIWgPWc7miwa2Jf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\папки в папке\учеба\КБК\3 курс\5 семестр\Веб-разработка\lab1" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e090995a-5b23-4412-b95a-8769ef9916de" name="Default Changelist" comment="" />
+      <created>1603485538111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603485538111</updated>
+      <workItem from="1603485539554" duration="3554000" />
+      <workItem from="1603548721856" duration="4946000" />
+      <workItem from="1604425833481" duration="40000" />
+      <workItem from="1604426987544" duration="8783000" />
+      <workItem from="1604929637017" duration="10510000" />
+      <workItem from="1605087979507" duration="5805000" />
+      <workItem from="1605101319810" duration="2998000" />
+      <workItem from="1605104507791" duration="662000" />
+      <workItem from="1605105493562" duration="51000" />
+      <workItem from="1605109809806" duration="99000" />
+      <workItem from="1605549328573" duration="598000" />
+      <workItem from="1605623783515" duration="2504000" />
+      <workItem from="1605630536773" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="218" key="#Inspections" timestamp="1605102327909">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="586" y="218" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1605102327909" />
+    <state x="154" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603549645651">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="154" y="223" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.46.1920.1034@0.46.1920.1034" timestamp="1603549645651" />
+    <state x="435" y="370" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603549999797">
+      <screen x="0" y="46" width="1920" height="1034" />
+    </state>
+    <state x="435" y="370" key="#com.intellij.fileTypes.FileTypeChooser/0.46.1920.1034@0.46.1920.1034" timestamp="1603549999797" />
+    <state x="1073" y="460" key="Github.CreateGistDialog" timestamp="1605624153062">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1073" y="460" key="Github.CreateGistDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605624153062" />
+    <state x="1127" y="438" key="Github.ShareDialog" timestamp="1605625665437">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1127" y="438" key="Github.ShareDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1605625665437" />
+    <state x="755" y="209" key="SettingsEditor" timestamp="1605630598660">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="755" y="209" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605630598660" />
+    <state x="616" y="250" key="run.anything.popup" timestamp="1605624476341">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="616" y="250" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605624476341" />
+  </component>
+</project>

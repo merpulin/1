@@ -1,0 +1,124 @@
+h1 {
+    align-content: center;
+    font-style: normal;
+    font-weight: normal;
+    font-family: Georgia, serif;
+    font-size: 20px;
+    color: #474747;
+    padding: 30px 50px 0 50px;
+}
+
+.container {
+    background-color: #f1f1f1;
+    width: 800px;
+    height: 460px;
+    border-radius: 6px;
+    margin: 0 auto;
+    box-shadow: 0 2px 10px 2px #868686;
+    text-align: center;
+}
+
+figure img {
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    box-shadow: 0 2px 3px 2px #868686;
+    background-color: white;
+}
+
+figure {
+    margin: 0 auto;
+    width: 100px;
+    float: left;
+}
+
+h2 {
+    align-content: center;
+    font-style: normal;
+    font-weight: normal;
+    font-family: Georgia, serif;
+    font-size: 18px;
+    color: #474747;
+    padding: 40px 50px 20px 50px;
+}
+
+.sites {
+    padding: 0 0 90px 0;
+
+}
+
+.h2 {
+    padding: 0 0 20px 0;
+}
+
+.title {
+    overflow: hidden;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 0 0 30px 0;
+    color: #474747;
+}
+
+.title:before,
+.title:after {
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    width: 220px;
+    height: 1px;
+    background-color: #d0d0d0;
+    border-bottom: 2px solid;
+    border-bottom-color: white;
+    position: relative;
+}
+
+.title:before {
+    margin-left: -100%;
+    left: -14px;
+}
+
+.title:after {
+    margin-right: -100%;
+    right: -14px;
+}
+
+.element {
+    position: relative;
+    height: 30px;
+    width: 230px;
+    font-size: 15pt;
+}
+
+.col1 {
+    right: 200px;
+}
+
+.col2 {
+    bottom: 104px;
+    left: 45px;
+}
+
+.button {
+    background-color: #2271bb;
+    color: white;
+    height: 40px;
+    width: 150px;
+    font-size: 11pt;
+    border: none;
+    position: relative;
+    left: 280px;
+    bottom: 190px;
+}
+
+.cancel {
+    position: relative;
+    width: 30px;
+    height: 30px;
+    right: -400px;
+    bottom: 600px;
+    border: 3px solid white;
+    border-radius: 300px;
+    background-color: white;
+    box-shadow: 0 1px 3px 3px #868686;
+}
